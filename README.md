@@ -1,0 +1,2 @@
+# prueba-front-end-kunder-marvel
+Prueba Front-End de postulación por empresa Kunder, la cual consiste en un sitio web móvil simple que muestre en la página principal la lista de comics con el título, año, imagen y otra información que pueda ser interesante al usuario, obtenida a través de la API abierta de Marvel. Además, la página principal debe incluir un buscador que permita buscar por título y año. Al realizar una búsqueda, se debe ir actualizando el contenido mostrado.
